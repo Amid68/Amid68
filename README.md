@@ -1,8 +1,8 @@
 # Ameed Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  عميد عثمان
 
-<marquee behavior="scroll" direction="left">🚀 Computer Science Student | Data Science Enthusiast | Future Data Engineer </marquee>
+<marquee behavior="scroll" direction="left"> Computer Science Student | Data Science Enthusiast | Future Data Engineer </marquee>
 
-### **👋 About Me**
+### **👋🏻 About Me**
 
 I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus, with a strong interest in **Data Science** and **Engineering**.
 
