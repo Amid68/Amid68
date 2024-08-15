@@ -1,4 +1,4 @@
-# Ameed Othman   عميد عثمان
+# Ameed Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  عميد عثمان
 
 <marquee behavior="scroll" direction="left">🚀 Computer Science Student | Data Science Enthusiast | Future Data Engineer </marquee>
 
