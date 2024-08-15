@@ -1,4 +1,4 @@
-# 💻 **Welcome to My GitHub Portfolio!** 🎉
+# Ameed Othman عميد عثمان
 
 <marquee behavior="scroll" direction="left">🚀 Computer Science Student | Data Science Enthusiast | Future Data Engineer </marquee>
 
