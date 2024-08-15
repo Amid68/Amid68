@@ -29,14 +29,14 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 ### **📈 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amid68&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amid68&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### **📫 Contact Me**
 
 - **Email**: [othman.ameed@gmail.com](mailto:othman.ameed@gmail.com)
-- **LinkedIn**: [Ameed Othman](#https://www.linkedin.com/in/ameed-othman/)
+- **LinkedIn**: [Ameed Othman](https://www.linkedin.com/in/ameed-othman/)
 
 ---
 
