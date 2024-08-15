@@ -9,16 +9,22 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 ### **🛠️ Tools & Technologies**
 
 <p align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/><br>Python</a>
+  <a href="https://jupyter.org/"><img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook"/><br>Jupyter Notebook</a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/><br>Pandas</a>
+  <a href="https://numpy.org/"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/><br>NumPy</a>
+  <a href="https://matplotlib.org/"><img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"/><br>Matplotlib</a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn"/><br>Seaborn</a>
+  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="SQL"/><br>SQL</a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/><br>Git</a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="Bash"/><br>Bash</a>
+  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/><br>Java</a>
+  <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/><br>C++</a>
+  <a href="https://www.snowflake.com/"><img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake"/><br>Snowflake</a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/><br>Power BI</a>
+  <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/><br>Docker</a>
 </p>
+
 
 
 ### **🌍 Languages**
