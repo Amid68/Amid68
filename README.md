@@ -52,8 +52,10 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 
 ### **🔥 LeetCode Stats**
 
+### **🔥 LeetCode Stats**
+
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Amid68?theme=dark" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=LeetCode&query=solved&url=https://leetcode-stats-api.herokuapp.com/Amid68" alt="LeetCode Stats" />
 </p>
 
 ### **🏆 Codewars Stats**
