@@ -50,6 +50,20 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 
 ---
 
+### **🔥 LeetCode Stats**
+
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/Amid68?theme=dark" alt="LeetCode Stats" />
+</p>
+
+### **🏆 Codewars Stats**
+
+<p align="center">
+  <img src="https://www.codewars.com/users/Amid99/badges/large" alt="Codewars Badge" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=F700FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!+😊" />
 </p>
