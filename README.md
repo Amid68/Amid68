@@ -1,10 +1,10 @@
-# Ameed Othman &nbsp;&nbsp;&nbsp;  عميد عثمان
+# Ameed Othman &nbsp;&nbsp;&nbsp; عميد عثمان
 
-<marquee behavior="scroll" direction="left"> Computer Science Student | Exploring Embedded Software </marquee>
+<marquee behavior="scroll" direction="left"> Computer Science Student | Exploring Embedded Software & Operating Systems </marquee>
 
 ### **👋🏻 About Me**
 
-I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I am currently getting into **Embedded Software Development**, focusing on **C, C++**, and the **AVR Architecture** as I learn to program embedded systems.
+I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I'm currently focused on **Embedded Software Development** and **Operating Systems**. My work revolves around **C**, **C++**, and the **AVR Architecture** as I develop skills in programming embedded systems. I’m passionate about building things that directly interact with hardware and am always looking to learn more about the low-level mechanics of how systems work.
 
 ### **🛠️ Tools & Technologies**
 
@@ -20,7 +20,7 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
   <img src="https://img.shields.io/badge/Make-0674B8?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/GDB-FF4500?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Clang-8E44AD?style=for-the-badge&logo=clang&logoColor=white" alt="Clang" />
   <img src="https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=gnunano&logoColor=white" alt="Nano" />
@@ -28,7 +28,6 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
   <img src="https://img.shields.io/badge/Zsh-333333?style=for-the-badge&logo=gnu-zsh&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
-
 
 ### **🌍 Languages**
 
