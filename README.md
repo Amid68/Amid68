@@ -16,18 +16,19 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Make-0674B8?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/GDB-FF4500?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Clang-8E44AD?style=for-the-badge&logo=clang&logoColor=white" alt="Clang" />
-  <img src="https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=gnunano&logoColor=white" alt="Nano" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Zsh-333333?style=for-the-badge&logo=gnu-zsh&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR" />
 </p>
+
 
 ### **🌍 Languages**
 
