@@ -4,7 +4,7 @@
 
 ### **👋🏻 About Me**
 
-I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I'm currently focused on **Embedded Software Development** and **Operating Systems**. My work revolves around **C**, **C++**, and the **AVR Architecture** as I develop skills in programming embedded systems. I’m passionate about building things that directly interact with hardware and am always looking to learn more about the low-level mechanics of how systems work.
+I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I'm currently focused on **Embedded Software Development** and **Operating Systems**. My work revolves around **C**, **C++**, and the **AVR Architecture** as I develop skills in programming embedded systems.
 
 ### **🛠️ Tools & Technologies**
 
