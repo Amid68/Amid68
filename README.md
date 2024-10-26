@@ -10,8 +10,8 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 
 Navigate through my projects by category:
 
-- [Arduino Projects](./Arduino/README.md)
-- [STM32 Projects](./STM32/README.md)
+- [Arduino Projects](https://github.com/Amid68/Arduino/blob/main/README.md)
+- [STM32 Projects](https://github.com/Amid68/STM32/blob/main/README.md)
 
 ### **🛠️ Tools & Technologies**
 
