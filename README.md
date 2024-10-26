@@ -1,10 +1,17 @@
 # Ameed Othman &nbsp;&nbsp;&nbsp; عميد عثمان
 
-<marquee behavior="scroll" direction="left"> Computer Science Student | Exploring Embedded Software & Operating Systems </marquee>
+<marquee behavior="scroll" direction="left"> Computer Science Student | Specializing in Embedded Systems</marquee>
 
 ### **👋🏻 About Me**
 
-I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I'm currently focused on **Embedded Software Development** and **Operating Systems**.
+I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I'm currently focused on **Embedded Software Development**.
+
+### **📁 Project Categories**
+
+Navigate through my projects by category:
+
+- [Arduino Projects](./Arduino/README.md)
+- [STM32 Projects](./STM32/README.md)
 
 ### **🛠️ Tools & Technologies**
 
@@ -46,14 +53,6 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
   <img src="https://github-readme-stats.vercel.app/api?username=Amid68&show_icons=true&theme=radical" alt="GitHub Stats" />
   &ensp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amid68&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### **🏆 Codewars Stats**
-
-<p align="center">
-  <img src="https://www.codewars.com/users/Amid99/badges/large" alt="Codewars Badge" />
 </p>
 
 ---
