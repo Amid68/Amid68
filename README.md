@@ -12,6 +12,7 @@ Navigate through my projects by category:
 
 - [Arduino Projects](https://github.com/Amid68/Arduino/blob/main/README.md)
 - [STM32 Projects](https://github.com/Amid68/STM32/blob/main/README.md)
+- [Linux Projects](https://github.com/Amid68/Linux-Projects)
 
 ### **🛠️ Tools & Technologies**
 
