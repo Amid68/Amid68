@@ -15,6 +15,7 @@ Navigate through my projects by category:
 - [Arduino Projects](https://github.com/Amid68/Arduino/blob/main/README.md)
 - [Raspberry Pi Projects](https://github.com/Amid68/Raspberry-Pi/blob/main/README.md)
 - [Linux Projects](https://github.com/Amid68/Linux-Projects)
+- [📁 General Programming](https://github.com/Amid68/General-Programming/blob/main/README.md)
 
 ### **🛠️ Tools & Technologies**
 
