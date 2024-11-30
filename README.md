@@ -10,11 +10,11 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 
 Navigate through my projects by category:
 
-- [STM32 Projects](https://github.com/Amid68/STM32/blob/main/README.md)
-- [Nordic Semiconductor Projects](https://github.com/Amid68/Nordic-Semiconductor/blob/main/README.md)
-- [Arduino Projects](https://github.com/Amid68/Arduino/blob/main/README.md)
-- [Raspberry Pi Projects](https://github.com/Amid68/Raspberry-Pi/blob/main/README.md)
-- [Linux Projects](https://github.com/Amid68/Linux-Projects)
+- [📁 STM32 Projects](https://github.com/Amid68/STM32/blob/main/README.md)
+- [📁 Nordic Semiconductor Projects](https://github.com/Amid68/Nordic-Semiconductor/blob/main/README.md)
+- [📁 Arduino Projects](https://github.com/Amid68/Arduino/blob/main/README.md)
+- [📁 Raspberry Pi Projects](https://github.com/Amid68/Raspberry-Pi/blob/main/README.md)
+- [📁 Linux Projects](https://github.com/Amid68/Linux-Projects)
 - [📁 General Programming](https://github.com/Amid68/General-Programming/blob/main/README.md)
 
 ### **🛠️ Tools & Technologies**
