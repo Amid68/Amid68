@@ -12,6 +12,9 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,docker,jenkins,linux,ubuntu,git,github,vscode,clion,vim,neovim,pycharm,arduino,raspberrypi,matlab,mysql,php,html,css,md,apple,discord,gmail,linkedin" alt="My Skills" />
 </p>
 
+### **📁 My Projects**
+
+- [Embedded Systems Projects](projects/embedded_projects.md)
 
 ### **🌍 Languages**
 
