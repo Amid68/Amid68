@@ -15,6 +15,7 @@ I'm a **Computer Science student** at [An-Najah National University](https://www
 ### **📁 My Projects**
 
 - [Embedded Systems Projects](projects/embedded_projects.md)
+- [AI Projects](projects/ai.md)
 
 ### **🌍 Languages**
 
