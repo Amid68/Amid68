@@ -1,10 +1,10 @@
 # Ameed Othman &nbsp;&nbsp;&nbsp; عميد عثمان
 
-<marquee behavior="scroll" direction="left"> Computer Science Student | Specializing in Embedded Systems</marquee>
+<marquee behavior="scroll" direction="left"> Software Developer | Embedded Systems & IoT (C/C++, Zephyr RTOS) | Cloud & DevOps (AWS, Docker, Jenkins) | Python • Linux • Data Analysis • Machine Learning</marquee>
 
 ### **👋🏻 About Me**
 
-I'm a **Computer Science student** at [An-Najah National University](https://www.najah.edu/), based in Nablus. I'm currently focused on **Embedded Software Development**.
+Dedicated Software Developer and one of the top-ranked Computer Science students at [An-Najah National University](https://www.najah.edu/) (GPA: 3.51). Proficient in C/C++, Python, Zephyr RTOS, with experience developing IoT applications and automating deployment pipelines using Docker, and Jenkins.
 
 ### **🛠️ Tools & Technologies**
 
