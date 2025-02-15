@@ -14,6 +14,7 @@ Dedicated Software Developer and one of the top-ranked Computer Science students
 
 ### **📁 My Projects**
 
+- [Computer Vision Projects](projects/cv.md)
 - [Embedded Systems Projects](projects/embedded_projects.md)
 - [AI Projects](projects/ai.md)
 
