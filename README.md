@@ -17,6 +17,7 @@ Dedicated Software Developer and one of the top-ranked Computer Science students
 - [Computer Vision Projects](projects/cv.md)
 - [Embedded Systems Projects](projects/embedded_projects.md)
 - [AI Projects](projects/ai.md)
+- [Mobile Dev Projects](projects/mobile.md)
 
 ### **🌍 Languages**
 
